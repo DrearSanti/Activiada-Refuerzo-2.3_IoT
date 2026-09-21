@@ -21,10 +21,9 @@ La documentación completa del diseño y la validación está en el
 
 ## Simulación
 
-Desarrollado en Cisco Packet Tracer 8.2.2. Abrir el archivo en esa versión
-o superior.
+La simulación fue desarrollada en Cisco Packet Tracer 8.2.2.
 
-Para reproducir la operación: iniciar el broker en PLAT-BROKER desde la
+Si se quiere reproducir la operación, se debe iniciar el broker en PLAT-BROKER desde la
 pestaña Programming, y conectar los clientes MQTT de GW-A, GW-B y DASH-01
-al broker en 203.0.113.10. El estado del broker no se conserva entre
+al broker en 203.0.113.10. Aunque esto no es necesario ya que en el video anexo a este repositorio se hacen unas pruebas con respecto a la reproducción y el funcionamiento de la simulación. El estado del broker no se conserva entre
 sesiones.
