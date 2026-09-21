@@ -4,7 +4,7 @@ Componente de conectividad de un sistema IoT para el monitoreo de nivel,
 temperatura y turbidez en cuatro puntos de Sabana Centro, Cundinamarca.
 
 Curso de Internet de las Cosas, Universidad de La Sabana, 2026-2.
-Autores: Santiago Escobar, Esteban Sequeda.
+Integrantes del grupo: Santiago Escobar, Esteban Sequeda.
 
 ## Documentación
 
